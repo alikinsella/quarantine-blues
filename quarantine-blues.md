@@ -1,4 +1,4 @@
-#Quarantine Blues
+# Quarantine Blues
 When the whole world is transmitting a deadly virus with no known cure, you need to stay **home**. But staying home is _boring_! We've come up with some things you can do to keep the blues, and Covid-19, away.
 
 * wash your hands
